@@ -1,0 +1,13 @@
+sentence-transformers
+langchain-community
+langchain
+pypdf
+chromadb
+fastapi
+pydantic
+uvicorn
+fastapi-restful
+pydantic-settings
+Flask
+requests
+flask-limiter
